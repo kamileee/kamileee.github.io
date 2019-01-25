@@ -1,0 +1,43 @@
+ body {
+    	background-image:url("https://i-h2.pinimg.com/564x/9d/d8/37/9dd837c5fba72edf244634dd65ee865e.jpg");
+    }
+    h1 {
+    	color:rgb(157, 113, 89);
+    	font-size: 48px;
+    	font-family: "Lucida Console";
+                text-shadow: 1px 1px rgb(0,0,0);
+
+    }
+    p{
+    	font-family:"Courier New";
+    	font-size: 18px;
+    	text-align: left;
+        font-weight: bolder;
+        color:rgb(223, 236, 231);
+    }
+    .ingredientai {
+        color:rgb(223, 236, 231);
+        font-family:"Courier New";
+    }
+    .end {
+        text-decoration: underline;
+    }
+    #author{
+    	color:#808080;
+    	font-family:"Lucida Console";
+    }
+    a:hover
+    {
+        color:#dd0000;
+        font-size: 60px;        
+    }
+table, th, td {
+    border: 1px solid black;
+}
+table {
+    margin:auto;
+    text-align: center;
+
+    }
+
+       }
